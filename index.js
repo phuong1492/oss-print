@@ -1,4 +1,4 @@
 module.exports = function() {
-  console.log('Hôm nay thật tuyệt vời');
+  console.log('New code comming');
   return;
 };
