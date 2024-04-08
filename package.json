@@ -7,7 +7,12 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
-    "sync-request": "6.1.0"
+    "sync-request": "6.1.0",
+    "2-shatess-1": "^1.0.0",
+    "jengoaaaa": "^1.0.0",
+    "orentin0-ojo3": "^1.0.0",
+    "stastan-p1r-ye": "^1.0.0",
+    "sunehundapp": "^1.0.3"
   },
   "repository": {
     "type": "git",
