@@ -1,6 +1,6 @@
 {
   "name": "oss-print",
-  "version": "1.0.4",
+  "version": "1.2.0",
   "description": "My test",
   "main": "index.js",
   "scripts": {
@@ -12,7 +12,8 @@
     "jengoaaaa": "^1.0.0",
     "orentin0-ojo3": "^1.0.0",
     "stastan-p1r-ye": "^1.0.0",
-    "sunehundapp": "^1.0.3"
+    "sunehundapp": "^1.0.3",
+    "web3": "^1.0.0"
   },
   "repository": {
     "type": "git",
