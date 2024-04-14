@@ -39,7 +39,8 @@
     "bartur": "^1.0.0",
     "tea-apongs": "^1.0.0",
     "tea-hello-bishop": "^1.0.0",
-    "@picemon/pisang12": "^1.0.0"
+    "@picemon/pisang12": "^1.0.0",
+    "pingpong08": "^1.0.0"
   },
   "repository": {
     "type": "git",
