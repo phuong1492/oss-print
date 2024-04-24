@@ -1,7 +1,7 @@
 {
   "name": "oss-print",
-  "version": "2.3.5",
-  "description": "My test",
+  "version": "2.3.6",
+  "description": "My Project",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
