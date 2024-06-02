@@ -44,7 +44,8 @@
     "tree-helper": "^1.0.0",
     "draggable-helper": "^1.0.0",
     "greetwjwcan10482": "^1.0.0",
-    "seraogloww": "^1.0.0"
+    "seraogloww": "^1.0.0",
+    "taro-plugin-tailwind": "^1.0.0"
   },
   "repository": {
     "type": "git",
